@@ -1,5 +1,5 @@
 
-# 📊 Responsive landing page "HooBank" 
+# 📊 HooBank - Modern UI/UX website using React.js & Tailwind CSS
 ### *https://itshliakhov.github.io/hoobank-app/*
 **🖥 Technologies I used:**  
 * React
