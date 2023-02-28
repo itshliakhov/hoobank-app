@@ -1,12 +1,12 @@
 
 # 📊 HooBank - Modern UI/UX website using React.js & Tailwind CSS
 ### *https://itshliakhov.github.io/hoobank-app/*
-**🖥 Technologies I used:**  
+**🛠 Technologies I used:**  
 * React
 * TailwindCSS
 
 
-**📋 Project features:**
+**🧰 Project features:**
 * Fully Responsive
 * Working navigation
 * Modern UI/UX
